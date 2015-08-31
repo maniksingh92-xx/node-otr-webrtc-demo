@@ -1,0 +1,32 @@
+{
+  "name": "node-otr-webrtc-demo",
+  "version": "1.0.0",
+  "description": "Web Chat App utilizing AngularJS, NodeJS, OTR protocol and SSE.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maniksingh92/node-otr-webrtc-demo.git"
+  },
+  "keywords": [
+    "privly",
+    "angularjs",
+    "chat",
+    "nodejs",
+    "otr",
+    "sse"
+  ],
+  "author": "Manik Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maniksingh92/node-otr-webrtc-demo/issues"
+  },
+  "homepage": "https://github.com/maniksingh92/node-otr-webrtc-demo#readme",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "uuid": "^2.0.1"
+  }
+}
